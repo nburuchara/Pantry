@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>419838533460-2b46kdpjrrb07sga7qb26uihk74j5p0c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.419838533460-2b46kdpjrrb07sga7qb26uihk74j5p0c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOjeRV3wFMjsTXpOXY-Pjrjr6TNNd1-5A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>419838533460</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.norman.normanburuchara.onTheGo</string>
+	<key>PROJECT_ID</key>
+	<string>wasi-wasi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wasi-wasi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:419838533460:ios:8dcf4ba71f47c85b94f2c1</string>
+	<key>DATABASE_URL</key>
+	<string>https://wasi-wasi.firebaseio.com</string>
+</dict>
+</plist>
